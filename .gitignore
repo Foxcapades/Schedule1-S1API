@@ -5,6 +5,8 @@ obj/
 bin/
 *.user
 .vs/
+/GameAssemblies/
+
 
 # Build props
 local.*
